@@ -1,8 +1,8 @@
-layout: top
+@layout: top
 
 # Scala for Java Developers
 
-A side-by-side introduction
+##A side-by-side introduction
 
 ---
 
@@ -12,13 +12,13 @@ A side-by-side introduction
 
 # Variables
 
-@snap[west]
+@snap[west span-50]
 ```java
 int speed = 130;
 ```
 @snapend
 
-@snap[east]
+@snap[east span-50]
 ```scala
 var speed: Int = 130;
 var speed = 130
